@@ -1,4 +1,4 @@
-# Hedera JavaScript SDK
+# Hedera_SDK (WebAssembly)
 
 Hedera JavaScript API is the environment for working with Hedera Hashgraph - a distributed network using the hashgraph consensus algorithm for fast, fair and secure transactions. This is an unofficial version of the development tool.
 
