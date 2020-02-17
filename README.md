@@ -1,2 +1,2 @@
-# Hedera_SDK
+# Hedera_SDK (WebAssembly)
 Hedera Rust API
