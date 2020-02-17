@@ -1,0 +1,8 @@
+{
+	"Linux": "../targetOS/Linux/library.so",
+	"macOS": "../targetOS/macOS/library.dylib",
+	"Windows": "../targetOS/Windows/library.dll",
+	"CustomBuildLinux": "../rust_hedera_sdk/target/release/library.so",
+	"CustomBuildmacOS": "../rust_hedera_sdk/target/release/library.dylib",
+	"CustomBuildWindows": "../rust_hedera_sdk/target/release/library.dll"
+}

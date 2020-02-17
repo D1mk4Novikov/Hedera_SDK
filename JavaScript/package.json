@@ -1,0 +1,23 @@
+{
+  "name": "xclbr-hedera-js",
+  "version": "0.1.0-alpha.0",
+  "description": "This framework allows you to interact with HederaSDK on the Web",
+  "main": "Excalibur.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Hedera",
+    "Hashgraph",
+    "SDK",
+    "Excalibur",
+    "JS",
+    "JavaScript",
+    "Rust"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.3.0"
+  }
+}

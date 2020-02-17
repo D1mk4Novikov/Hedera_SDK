@@ -1,0 +1,1 @@
+{"rustc":458033196663519952,"features":"[]","target":1726110301158582758,"profile":16066879557399387342,"path":11109765003020800302,"deps":[["tls-api v0.1.20","tls_api",695823521820345053],["void v1.0.2","void",10103310640719066258]],"local":[{"Precalculated":"0.1.20"}],"rustflags":[],"edition":"Edition2015"}
